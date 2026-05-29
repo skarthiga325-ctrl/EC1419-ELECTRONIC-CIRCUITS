@@ -8,6 +8,14 @@
 
 ## Tabulations 
 
+![WhatsApp Image 2026-03-26 at 11 29 13 AM](https://github.com/user-attachments/assets/6736e706-89d2-497f-9f3a-e0cc6f9869ea)
+
+
 ## Semilog Graph
 
-<img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+![WhatsApp Image 2026-03-26 at 11 29 43 AM](https://github.com/user-attachments/assets/ebd1db80-b6d6-41a2-bdf2-7d40d3a45cb0)
+## result
+the troubleshooting the common emitter amplifier wass successfully completerd and the following fresults were observed
+1) gain of the amplifierr 6.8 dB
+2) Bandwidth of the amplifier 9.9 khz
+3) gain-bandwidth product 219.43 khz
