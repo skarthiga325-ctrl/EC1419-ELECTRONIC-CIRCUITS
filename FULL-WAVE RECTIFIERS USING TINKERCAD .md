@@ -5,5 +5,6 @@
 
 
 ## TINKER CAD CIRCUIT DIAGRAM
+<img width="1052" height="581" alt="image" src="https://github.com/user-attachments/assets/2e201c8b-cfb7-4fd0-8a6d-5575dcc6bf54" />
 
 <img width="860" height="227" alt="image" src="https://github.com/user-attachments/assets/2cd08752-9469-424d-8283-a306c0ccac15" />
